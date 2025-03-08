@@ -1,0 +1,6 @@
+opencv-python
+easyocr
+pymongo
+watchdog
+cv2
+time
